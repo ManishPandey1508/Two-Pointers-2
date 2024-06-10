@@ -5,7 +5,7 @@
 // Use slow and fast pointer and count =1 variable
 // Fast pointer will traversing the whole array 
 // Whenever count is less thn 2 and value at fast pointer and prev to fast pointer is same : increase the count and swap values increase slow pointer
-// Whenever count is greater or equal to 2 and value at fast pointer and prev to fast pointer is not same  : increase the count 
+// Whenever count is greater or equal to 2 and value at fast pointer and prev to fast pointer is same  : increase the count 
 // whenever pair is not equal reset the count to 1 and swap the slow and prev pointer
 // Your code here along with comments explaining your approach
 
